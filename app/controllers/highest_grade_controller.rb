@@ -1,0 +1,2 @@
+class HighestGradeController < ApplicationController
+end
